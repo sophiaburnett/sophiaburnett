@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on AI linguistics
 - 📫 How to reach me sophianburnett at gmail
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm not a CS
+- ⚡ Fun fact: Bananas are a herb
 
 <!---
 sophiaburnett/sophiaburnett is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
