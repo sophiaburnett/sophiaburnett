@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sophiaburnett
-- 👀 I’m interested in language science, linguistic anthropology, and situated languege
+- 👀 I hold a PhD in language science, I'm interested in linguistic anthropology, and situated languege
 - 🌱 I’m currently learning ABM
-- 💞️ I’m looking for a decent wage
+- 💞️ Hugs and learning
 - 📫 How to reach me sophianburnett at gmail
 - 😄 Pronouns: she/they
 - ⚡ Fun fact: Bananas are a herb
