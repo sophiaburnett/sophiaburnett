@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @sophiaburnett
-- 👀 I’m interested in language science, linguistic anthropology, and discourse analysis
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on AI linguistics
+- 👀 I’m interested in language science, linguistic anthropology, and situated languege
+- 🌱 I’m currently learning ABM
+- 💞️ I’m looking for a decent wage
 - 📫 How to reach me sophianburnett at gmail
-- 😄 Pronouns: she/her
+- 😄 Pronouns: she/they
 - ⚡ Fun fact: Bananas are a herb
 
 <!---
